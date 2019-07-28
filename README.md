@@ -8,9 +8,9 @@
        &emsp;操作系统为：Windows10<br/>
 
 目录结构<br/>
-![image](https://github.com/linksong/WxProgram/blob/master/img/project.png)
+![image](https://github.com/linksong/WxProgram/blob/master/img/project.png)<br/>
 效果展示<br/>
-
+![image](https://github.com/linksong/WxProgram/blob/master/img/Tim.png)<br/>
 微信前端代码：_wxFront-end_ 文件夹下<br/>
 
 与慕课网的主要更新**区别**：<br/>
