@@ -8,7 +8,7 @@
        &emsp;操作系统为：Windows10<br/>
 
 目录结构
-
+![image](https://github.com/linksong/WxProgram/blob/master/img/project.png)
 效果展示
 
 微信前端代码：_wxFront-end_ 文件夹下<br/>
