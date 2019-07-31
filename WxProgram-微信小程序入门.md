@@ -23,11 +23,11 @@
 效果展示
 [![image](https://github.com/linksong/WxProgram/raw/master/img/Tim.png)](https://github.com/linksong/WxProgram/blob/master/img/Tim.png)
 
-[!image](https://github.com/linksong/WxProgram/blob/master/img/tim3.png)
+[![image](https://github.com/linksong/WxProgram/blob/master/img/tim3.png)](https://github.com/linksong/WxProgram/blob/master/img/tim3.png)
 
-[!image](https://github.com/linksong/WxProgram/blob/master/img/tim4.png)
+[![image](https://github.com/linksong/WxProgram/blob/master/img/tim4.png)](https://github.com/linksong/WxProgram/blob/master/img/tim4.png)
 
-[!image](https://github.com/linksong/WxProgram/blob/master/img/tim5.png)
+[![image](https://github.com/linksong/WxProgram/blob/master/img/tim5.png)](https://github.com/linksong/WxProgram/blob/master/img/tim5.png)
 
 
 
